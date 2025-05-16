@@ -1,12 +1,55 @@
-# React + Vite
+Student Performance Dashboard - React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+    • A professional dashboard for visualizing student exam performance with interactive charts
 
-Currently, two official plugins are available:
+FEATURES
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+➡ 3 Chart Types : 
 
-## Expanding the ESLint configuration
+         • Bar, Line, and Pie charts using Recharts.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+         • Hover tooltips and responsive design.
+
+➡ Key Metrics : 
+
+         • Total students, average scores, top subjects.
+
+         • Progress tracking over time.
+
+➡ Modern UI : 
+
+         • Built with Tailwind CSS.
+
+         • Mobile-friendly layout
+
+
+ ➡ Tech Stack : 
+
+        • ⚛️ React 18
+
+        • ⚡ Vite (with SWC/Babel options)
+
+        • 📈 Recharts for data visualization
+
+        • 🎨 Tailwind CSS for styling
+
+
+➡ QUICK START : 
+
+    1.Clone repo
+
+        • git clone https://github.com/Harikrishnan2550/Student-Dashboard.git
+
+    2.Run dev server
+
+        • npm run dev  
+
+
+➡ CONFIGURATION :     
+
+        • Edit sample data: src/data/sampleData.js
+
+
+➡ LIVE DEMO :
+
+        • https://student-dashboard-eight-weld.vercel.app/
